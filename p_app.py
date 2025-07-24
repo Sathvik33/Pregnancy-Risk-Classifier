@@ -1,10 +1,14 @@
-import streamlit as st
-import numpy as np
-import joblib
 import os
+import joblib
+import streamlit as st
+import pandas as pd
+import numpy as np
 
-# Load model from 'model' folder
-model_path = os.path.join("C:/C_py/Project/Pregnancy risk/Model", "pregnancy_risk_model.pkl")
+
+base_path = os.path.dirname(os.path.abspath(__file__))
+model_path = os.path.join(base_path, "Model", "pregnancy_risk_model.pkl")
+
+# Load model
 model = joblib.load(model_path)
 
 st.title("🤰 Pregnancy Risk Classifier")
