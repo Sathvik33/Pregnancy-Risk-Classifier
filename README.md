@@ -20,8 +20,6 @@ This project was inspired by an idea I came across while browsing the **Infosys 
 
 ## 📂 Project Structure
 
-
----
 Pregnancy-Risk-Classifier/
 │
 ├── Model/
@@ -30,6 +28,7 @@ Pregnancy-Risk-Classifier/
 ├── p_app.py # Streamlit UI logic
 ├── README.md # You're here!
 └── requirements.txt # Python dependencies
+---
 ## 🔍 Features
 
 - **Risk Classification**: Categorizes input data into Low, Mid, or High pregnancy risk.
