@@ -1,3 +1,25 @@
+# 🤰 Pregnancy Risk Classifier
+
+A machine learning-powered web application that predicts the **risk level** of pregnancy (🟢 Low, 🟡 Mid, 🔴 High) based on critical medical inputs. This project aims to assist in early awareness and care planning for expecting mothers.
+
+---
+
+## 🌟 Inspiration
+
+This project was inspired by an idea I came across while browsing the **Infosys Internship Portal – Projects Section**. The concept of using AI to contribute to **maternal health and safety** deeply resonated with me, motivating the development of a meaningful, life-centric application.
+
+---
+
+## 🚀 Live Demo
+
+👉 [Access the Live App](https://pregnancy-risk-classifier.onrender.com)
+
+> A simple, secure, and responsive web interface that allows users to input medical details and instantly receive pregnancy risk predictions.
+
+---
+
+## 📂 Project Structure
+
 
 ---
 
